@@ -11,6 +11,10 @@
   background-color: #256b4e;
 }
 
+#gallery {
+  background-color: #256b4e;
+}
+
 .gallery-img {
   width: 100%;
 }
@@ -24,7 +28,7 @@ section {
   padding-bottom: 10rem;
 }
 
-/* percobaan */
+/* percobaan gallery */
 * {
   box-sizing: border-box;
 }
@@ -112,7 +116,7 @@ section {
   opacity: 1;
 }
 
-/* percobaan 2 */
+/* percobaan services */
 /* The flip card container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
 .flip-card {
   background-color: transparent;
